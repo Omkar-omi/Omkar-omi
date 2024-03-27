@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-omi&theme=darcula&hide_border=true"alt="omkaromi"/></h3>
 
-- 🔭 I’m currently working on rewriting my previous project in Next.js and using Hasura for backend.
+- 🔭 I’m currently learning Go Language.
 
 <h1 align="left">Languages and tools i use or used:</h1>
 
