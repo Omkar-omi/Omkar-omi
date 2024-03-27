@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 
-- 🔭 I’m currently learning Go Language.
-
-<h1 align="left">Languages and tools i use or used:</h1>
-
-> Bootstrap, CSS3 ,Scss, Tailwind, Framer, DaisyUI, AntD.
-
-> Firebase, GCP, Docker, Postman, Git, NextAuth.
-
-> MySQL, Postgresql, Mongodb, Graphql, SQLite.
-
-> Typescript, ReactJs, NextJs, Javascript, Python, Html5, Redux, React-Expo.
-
+🚧 I’m currently learning Go Language. 🚧
+  
+# Checkout my Portfolio [Website](https://omkarrasam.vercel.app/)
+  
+![skills](https://github.com/Omkar-omi/Omkar-omi/assets/113718239/658ad9e2-208f-4f8f-b240-27b6eee4d5e8)
 
 ##  ⚡ Fun Fact
 
