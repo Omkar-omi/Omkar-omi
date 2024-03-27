@@ -4,7 +4,8 @@
   
 # Checkout my Portfolio [Website](https://omkarrasam.vercel.app/)
   
-![skills](https://github.com/Omkar-omi/Omkar-omi/assets/113718239/658ad9e2-208f-4f8f-b240-27b6eee4d5e8)
+![skills](https://github.com/Omkar-omi/Omkar-omi/assets/113718239/adbbeb00-de6e-40e0-8a54-82db6e89409c)
+
 
 ##  ⚡ Fun Fact
 
