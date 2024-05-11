@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Omkar</h1>
+![og-bg](https://github.com/Omkar-omi/Omkar-omi/assets/113718239/966d5e36-b467-4a9c-84c6-060ee16db1a3)
 
-🚧 I’m currently learning Go Language. 🚧
+<h4 align="center">🚧 I’m currently learning Go Language. 🚧</h4>
   
-# Checkout my Portfolio [Website](https://omkarrasam.vercel.app/)
+<h1 align="center">Checkout my Portfolio <a href="https://omkarrasam.vercel.app/">Website</a></h1>
   
-![skills](https://github.com/Omkar-omi/Omkar-omi/assets/113718239/adbbeb00-de6e-40e0-8a54-82db6e89409c)
+<div align="center"><img src="https://github.com/Omkar-omi/Omkar-omi/assets/113718239/adbbeb00-de6e-40e0-8a54-82db6e89409c"/></div>
 
 
 ##  ⚡ Fun Fact
